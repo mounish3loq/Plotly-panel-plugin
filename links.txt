@@ -1,0 +1,3 @@
+https://github.com/NatelEnergy/grafana-plotly-panel/issues/53
+
+https://github.com/plotly/react-chart-editor
